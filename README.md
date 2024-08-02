@@ -1,5 +1,0 @@
-- [Manifesto](https://www.gutenberg.org/cache/epub/61/pg61-images.html)
-- [Boeing](https://www.youtube.com/watch?v=Q8oCilY4szc)
-- [Economist](https://www.economist.com/news/2014/11/17/the-trouble-with-mergers#)
-- [Values](https://github.com/abikesa/nietzsche)
-- [Will-to-Power](https://www.gutenberg.org/files/52915/52915-h/52915-h.htm)
